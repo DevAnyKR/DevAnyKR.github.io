@@ -1,0 +1,5 @@
+theme: jekyll-theme-slate
+title: "DevAny's Repo"
+show_downloads: false
+include:
+  - head.html
